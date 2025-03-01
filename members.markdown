@@ -28,7 +28,7 @@ permalink: /members/
 [![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshinisreenivas&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![MUMMIDISETTY DHANUSH SAI TEJA]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=MUMMIDISETTYDHANUSHSAITEJA&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![MUMMIDISETTY DHANUSH SAI TEJA]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=mummidisettydhanushsaiteja&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Hafiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikHafiza&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
