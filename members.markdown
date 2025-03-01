@@ -8,6 +8,9 @@ permalink: /members/
 
 [![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sampathbalivada&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Jyothi's GitHub stats](https://github-readme-stats.vercel.app/api?username=20255-CM-012
+&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 [![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
