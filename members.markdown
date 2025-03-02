@@ -15,6 +15,8 @@ permalink: /members/
 [![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshinisreenivas&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
  [![Hemani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemani2425&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+ [![HimaVarshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=himavarshini28&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 [![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmikoyilada&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
@@ -26,6 +28,8 @@ permalink: /members/
 
 [![Shaik Shajid]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=shaik-shajid&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshinisreenivas&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 
 
 [![MUMMIDISETTY DHANUSH SAI TEJA]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=MUMMIDISETTYDHANUSHSAITEJA&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
