@@ -38,5 +38,5 @@ permalink: /members/
 [![Nehal]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=nehal-5&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 > To add yourself here copy the following template and replace the X with GitHub Name and x-username with your GitHub username.
->
+> [![Krupa sai S]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Krupa-Sai-S&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/Krupa-Sai-S/github-readme-stats#gh-light-mode-only)
 > [![X]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanya&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
